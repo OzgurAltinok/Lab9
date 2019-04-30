@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Student xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="BSc">
+  <Name>Ahmet</Name>
+  <Surname>Mehmet</Surname>
+  <No>1</No>
+</Student>

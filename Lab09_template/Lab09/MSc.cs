@@ -6,8 +6,16 @@ using System.Text;
 namespace Lab09
 {
     [Serializable]
-    class MSc:Student
+    public class MSc : Student
     {
-        
+        public MSc(string name, string surname, int no) : base(name, surname, no)
+        {
+
+        }
+
+        public MSc()
+        {
+
+        }
     }
 }

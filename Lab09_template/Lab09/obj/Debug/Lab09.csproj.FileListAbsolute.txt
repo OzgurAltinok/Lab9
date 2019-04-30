@@ -4,3 +4,9 @@ C:\Users\Baris\source\repos\Lab08\Lab08\obj\Debug\Lab09.csprojAssemblyReference.
 C:\Users\Baris\source\repos\Lab08\Lab08\obj\Debug\Lab09.csproj.CoreCompileInputs.cache
 C:\Users\Baris\source\repos\Lab08\Lab08\obj\Debug\Lab08.exe
 C:\Users\Baris\source\repos\Lab08\Lab08\obj\Debug\Lab08.pdb
+C:\Users\Ozgur Can\Desktop\nesne\Lab9\Lab09_template\Lab09\bin\Debug\Lab08.exe
+C:\Users\Ozgur Can\Desktop\nesne\Lab9\Lab09_template\Lab09\bin\Debug\Lab08.pdb
+C:\Users\Ozgur Can\Desktop\nesne\Lab9\Lab09_template\Lab09\obj\Debug\Lab09.csprojAssemblyReference.cache
+C:\Users\Ozgur Can\Desktop\nesne\Lab9\Lab09_template\Lab09\obj\Debug\Lab09.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur Can\Desktop\nesne\Lab9\Lab09_template\Lab09\obj\Debug\Lab08.exe
+C:\Users\Ozgur Can\Desktop\nesne\Lab9\Lab09_template\Lab09\obj\Debug\Lab08.pdb

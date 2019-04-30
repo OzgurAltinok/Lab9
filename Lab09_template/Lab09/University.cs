@@ -6,37 +6,41 @@ using System.Text;
 namespace Lab09
 {
     [Serializable]
-    class University
+    public class University
     {
         private string name;
         private List<Student> students;
 
-     
+
         public University(string name)
         {
-           
+            this.Name = name;
+            this.Students = students;
         }
+
+        public University()
+        {
+
+        }
+
+        public List<Student> Students { get { return students; } set { students = value; } }
+        public string Name { get { return name; } set { name = value; } }
 
         public void AddStudent(Student s)
         {
-            students.Add(s);
+            Students.Add(s);
         }
 
         public Student SearchStudent(string name)
         {
-            Student t = null;
-           
-            return t;
+            return Students.First(x => x.Name == name);
         }
-     
-        
+
+
         public Student SearchStudent(int no)
         {
-            Student t = null;
-
-            return t;
+            return Students.First(x => x.No == no);
         }
 
-       
     }
 }

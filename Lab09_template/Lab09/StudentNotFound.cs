@@ -5,9 +5,21 @@ using System.Text;
 
 namespace Lab09
 {
-    class StudentNotFound : Exception
+    public class StudentNotFound : Exception
     {
-      
+        public StudentNotFound()
+        {
 
+        }
+
+        public StudentNotFound(string name):base(String.Format("{0} Adlı ogrenci bulunamadi", name))
+        {
+
+        }
+
+        public StudentNotFound(int no) : base(String.Format("{0} Numarali ogrenci bulunamadi", no))
+        {
+
+        }
     }
 }
